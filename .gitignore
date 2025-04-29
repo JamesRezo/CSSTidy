@@ -6,3 +6,6 @@ nbproject*
 /.phpunit.cache/
 .unlock_css_optimiser
 /phpstan.neon
+/phpdoc.xml
+/.phpdoc
+/docs

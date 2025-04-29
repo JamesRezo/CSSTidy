@@ -5,4 +5,4 @@
 /tests/ export-ignore
 /phpstan.neon.dist export-ignore
 /.github/ export-ignore
-/Docs/ export-ignore
+/phpdoc.dist.xml export-ignore
