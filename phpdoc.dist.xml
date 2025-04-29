@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<phpdocumentor
+        configVersion="3"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns="https://www.phpdoc.org"
+>
+    <title>CssTidy</title>
+
+    <paths>
+        <output>docs</output>
+        <cache>.phpdoc/cache</cache>
+    </paths>
+
+    <version number="2.2.1">
+        <api>
+            <source dsn=".">
+                <path>class.csstidy_optimise.php</path>
+                <path>class.csstidy_print.php</path>
+                <path>class.csstidy.php</path>
+            </source>
+        </api>
+    </version>
+</phpdocumentor>
